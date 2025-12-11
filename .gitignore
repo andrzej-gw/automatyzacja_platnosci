@@ -1,3 +1,11 @@
+# My
+credentials.json
+token.json
+*.csv
+*.html
+*.htm
+private/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
